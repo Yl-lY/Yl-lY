@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  ![Snake Animation](https://github.com/Yl-lY/Yl-lY/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/Yl-lY/Yl-lY/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <!--
